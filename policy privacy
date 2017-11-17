@@ -1,0 +1,4 @@
+Application Camera Z only use permission android.permission.CAMERA for capture image when use using the app.
+We DO NOT use this permission for surveillance purpose
+
+@2017 Camera Z
